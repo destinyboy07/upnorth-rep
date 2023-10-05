@@ -1,0 +1,51 @@
+.hero {
+    background: linear-gradient(109.5deg, rgb(13, 11, 136) 9.4%, rgb(86, 255, 248) 78.4%);
+}
+.logo {
+    width: 150px;
+}
+.first-div {
+    text-align: center;
+}
+.nav-item {
+    text-align: center;
+}
+.apply-button {
+    box-shadow: 5px 5px gray;
+    border-radius: 10px;
+    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+    width: 100px;
+    height: 60px;
+    border: 50px;
+    -webkit-text-fill-color: antiquewhite;
+    
+}
+.content1 {
+    -webkit-text-fill-color: blueviolet;
+}
+.card> img {
+    border-radius: 45px;
+    height: 300px;
+}
+.me {
+    width: 400px;
+}
+.whatsapp {
+    position: fixed;
+    border-radius: 20px;
+    padding: 12px;
+    width: 100px;
+    background-color: rgb(16, 212, 16);
+    float: left;
+    z-index: 2;
+
+}
+.navbar-nav {
+    padding-left: 300px;
+}
+#bucks {
+    width: 170px;
+    border: 50px;
+    background-color: white;
+}
+
